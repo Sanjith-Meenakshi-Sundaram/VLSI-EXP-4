@@ -47,7 +47,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0021](https://github.com/user-attachments/assets/31694272-dca3-40a2-8f86-265f8b0aba2e)
+![Screenshot (65)](https://github.com/user-attachments/assets/0376e331-c609-4e2f-a0a1-f8d76a0fb7b0)
+
 
 
 
@@ -76,7 +77,8 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
-![IMG-20241019-WA0026](https://github.com/user-attachments/assets/df19d988-37b1-4de9-acb9-4709f3b7474c)
+![Screenshot (66)](https://github.com/user-attachments/assets/e28986d7-628b-407c-af47-5d6ea5adfe6a)
+
 
 
 For Transient Analysis Settings and Output
